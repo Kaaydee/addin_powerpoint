@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\X515\\source\\repos\\GeminiAIAddin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6464C5B1-9558-4A6B-A5FF-B633192B58A7}|GeminiAIAddin\\GeminiAIAddin.csproj|c:\\users\\x515\\source\\repos\\geminiaiaddin\\geminiaiaddin\\geminiribbon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6464C5B1-9558-4A6B-A5FF-B633192B58A7}|GeminiAIAddin\\GeminiAIAddin.csproj|solutionrelative:geminiaiaddin\\geminiribbon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6464C5B1-9558-4A6B-A5FF-B633192B58A7}|GeminiAIAddin\\GeminiAIAddin.csproj|c:\\users\\x515\\source\\repos\\geminiaiaddin\\geminiaiaddin\\geminiribbon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6464C5B1-9558-4A6B-A5FF-B633192B58A7}|GeminiAIAddin\\GeminiAIAddin.csproj|solutionrelative:geminiaiaddin\\geminiribbon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6464C5B1-9558-4A6B-A5FF-B633192B58A7}|GeminiAIAddin\\GeminiAIAddin.csproj|c:\\users\\x515\\source\\repos\\geminiaiaddin\\geminiaiaddin\\geminiai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6464C5B1-9558-4A6B-A5FF-B633192B58A7}|GeminiAIAddin\\GeminiAIAddin.csproj|solutionrelative:geminiaiaddin\\geminiai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6464C5B1-9558-4A6B-A5FF-B633192B58A7}|GeminiAIAddin\\GeminiAIAddin.csproj|c:\\users\\x515\\source\\repos\\geminiaiaddin\\geminiaiaddin\\thisaddin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6464C5B1-9558-4A6B-A5FF-B633192B58A7}|GeminiAIAddin\\GeminiAIAddin.csproj|solutionrelative:geminiaiaddin\\thisaddin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6464C5B1-9558-4A6B-A5FF-B633192B58A7}|GeminiAIAddin\\GeminiAIAddin.csproj|c:\\users\\x515\\source\\repos\\geminiaiaddin\\geminiaiaddin\\geminiribbon.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6464C5B1-9558-4A6B-A5FF-B633192B58A7}|GeminiAIAddin\\GeminiAIAddin.csproj|solutionrelative:geminiaiaddin\\geminiribbon.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6464C5B1-9558-4A6B-A5FF-B633192B58A7}|GeminiAIAddin\\GeminiAIAddin.csproj|c:\\users\\x515\\source\\repos\\geminiaiaddin\\geminiaiaddin\\thisaddin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6464C5B1-9558-4A6B-A5FF-B633192B58A7}|GeminiAIAddin\\GeminiAIAddin.csproj|solutionrelative:geminiaiaddin\\thisaddin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ThisAddIn.cs",
+              "DocumentMoniker": "C:\\Users\\X515\\source\\repos\\GeminiAIAddin\\GeminiAIAddin\\ThisAddIn.cs",
+              "RelativeDocumentMoniker": "GeminiAIAddin\\ThisAddIn.cs",
+              "ToolTip": "C:\\Users\\X515\\source\\repos\\GeminiAIAddin\\GeminiAIAddin\\ThisAddIn.cs",
+              "RelativeToolTip": "GeminiAIAddin\\ThisAddIn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T14:48:02.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GeminiRibbon.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\X515\\source\\repos\\GeminiAIAddin\\GeminiAIAddin\\GeminiRibbon.Designer.cs",
+              "RelativeDocumentMoniker": "GeminiAIAddin\\GeminiRibbon.Designer.cs",
+              "ToolTip": "C:\\Users\\X515\\source\\repos\\GeminiAIAddin\\GeminiAIAddin\\GeminiRibbon.Designer.cs",
+              "RelativeToolTip": "GeminiAIAddin\\GeminiRibbon.Designer.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAIwFgAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T13:45:39.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GeminiRibbon.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\X515\\source\\repos\\GeminiAIAddin\\GeminiAIAddin\\GeminiRibbon.cs",
+              "RelativeDocumentMoniker": "GeminiAIAddin\\GeminiRibbon.cs",
+              "ToolTip": "C:\\Users\\X515\\source\\repos\\GeminiAIAddin\\GeminiAIAddin\\GeminiRibbon.cs [Design]",
+              "RelativeToolTip": "GeminiAIAddin\\GeminiRibbon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T13:45:22.444Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GeminiRibbon.cs",
+              "DocumentMoniker": "C:\\Users\\X515\\source\\repos\\GeminiAIAddin\\GeminiAIAddin\\GeminiRibbon.cs",
+              "RelativeDocumentMoniker": "GeminiAIAddin\\GeminiRibbon.cs",
+              "ToolTip": "C:\\Users\\X515\\source\\repos\\GeminiAIAddin\\GeminiAIAddin\\GeminiRibbon.cs",
+              "RelativeToolTip": "GeminiAIAddin\\GeminiRibbon.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAIwEYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T13:41:48.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ThisAddIn.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\X515\\source\\repos\\GeminiAIAddin\\GeminiAIAddin\\ThisAddIn.Designer.cs",
+              "RelativeDocumentMoniker": "GeminiAIAddin\\ThisAddIn.Designer.cs",
+              "ToolTip": "C:\\Users\\X515\\source\\repos\\GeminiAIAddin\\GeminiAIAddin\\ThisAddIn.Designer.cs",
+              "RelativeToolTip": "GeminiAIAddin\\ThisAddIn.Designer.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAvwOIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T13:45:51.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GeminiAI.cs",
+              "DocumentMoniker": "C:\\Users\\X515\\source\\repos\\GeminiAIAddin\\GeminiAIAddin\\GeminiAI.cs",
+              "RelativeDocumentMoniker": "GeminiAIAddin\\GeminiAI.cs",
+              "ToolTip": "C:\\Users\\X515\\source\\repos\\GeminiAIAddin\\GeminiAIAddin\\GeminiAI.cs",
+              "RelativeToolTip": "GeminiAIAddin\\GeminiAI.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAYwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T13:44:36.437Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
